@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "The last of us 2",
+        "price": 58.73
+    },
+    {
+        "id": 2,
+        "name": "Mortal Kombat 11",
+        "price": 63.99
+    },
+    {
+        "id": 3,
+        "name": "Monster Hunter",
+        "price": 46.19
+    },
+    {
+        "id": 4,
+        "name": "Cyberpunk 2077",
+        "price": 199.90
+    },
+    {
+        "id": 5,
+        "name": "Dead by Daylight",
+        "price": 14.79
+    }
+]
