@@ -4,5 +4,7 @@ const controller = require('../controllers/gameController');
     
 /* GET games listing. */
 router.get('/', controller.getAll);
+/* POST game */
+router.post('/', controller.create);
     
 module.exports = router;
